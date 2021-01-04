@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "343691826653",
+    "project_id": "momosa-5bfae",
+    "storage_bucket": "momosa-5bfae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343691826653:android:6198246601fde7d3cfd234",
+        "android_client_info": {
+          "package_name": "com.momosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343691826653-uh0jre1sh7j8rod45va9aje2lfcr62df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4lIfTd1_g2ydEGd5zVIoUQSNW5jSjyJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343691826653-t5gbaoajsaqrldh56ktet7rjiutodj1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "343691826653-et0llus2tbnq2jkk150ghp1pda1152m0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
